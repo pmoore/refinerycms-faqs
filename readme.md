@@ -1,10 +1,14 @@
-# Faqs extension for Refinery CMS.
+# Parties extension for Refinery CMS.
 
-## How to build this extension as a gem
+Manage FAQs in Refinery CMS.
 
-    cd vendor/extensions/faqs
-    gem build refinerycms-faqs.gemspec
-    gem install refinerycms-faqs.gem
+## FAQs
 
-    # Sign up for a http://rubygems.org/ account and publish the gem
-    gem push refinerycms-faqs.gem
+A FAQ has a
+
+* question
+* answer
+
+## FAQ index page
+
+The FAQ index page lists all questions and answers.
