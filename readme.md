@@ -1,4 +1,4 @@
-# Parties extension for Refinery CMS.
+# FAQ extension for Refinery CMS.
 
 Manage FAQs in Refinery CMS.
 
