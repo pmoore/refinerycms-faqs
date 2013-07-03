@@ -16,13 +16,7 @@ group :assets do
 end
 
 group :development, :test do
-  gem 'rb-fsevent'
-  gem 'terminal-notifier-guard'
-  gem 'guard-bundler'
-  gem 'guard-spork'
-  gem 'guard-rspec'
   gem 'rspec-rails'
-  gem 'spork-rails'
   gem 'refinerycms-testing', git: 'git://github.com/resolve/refinerycms.git'
   gem 'factory_girl_rails'
   gem 'capybara'
